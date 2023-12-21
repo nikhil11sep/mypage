@@ -1,0 +1,83 @@
+body {
+	background-color: lightyellow;
+}
+.CV-Title {
+	color:darkslategrey;
+	color:brown;
+	text-align: center;
+	font-size:20px;
+	font-family: "Segoe Print";
+		/* height: 80px;
+		width: 600px;
+	vertical-align: top; */
+/*	padding: 0px 0px 100px 50px;
+	margin-left: 30px;*/
+/*        float: right;
+        position: relative;*/
+/*        left: -35%;*/
+}
+
+img {
+
+	height: 200px;
+	width: 200px;
+	border-radius: 80% 
+}
+
+.card {
+	/*box-shadow: 0 4px 80px 0 rgba(0, 0, 0, 0.2); */
+
+	max-width: 300px;
+	/*margin: auto;*/
+	text-align: left;
+	color: grey;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.address i {
+	color: blueviolet;
+	font-size:24px;
+}
+
+.menu li {
+	display: inline-block;
+	margin-top: 40px;
+	font-weight: bold;
+	color: brown;
+	text-align: center;
+	
+}
+
+.menu li:hover {
+	font-style: italic;
+	color:orange;
+}
+
+/* .card , .menu , .CV-Title {
+	display: inline-block;
+	
+} */
+/*.card {
+	float: left;
+}	*/
+
+/* .menu  {
+	float: right;
+	padding: 25px 0px 0px 0px;
+} */
+
+h2 {
+	color:brown
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items:normal
+}
+
+header menu {
+	margin-top:auto;
+margin-left:auto
+}
